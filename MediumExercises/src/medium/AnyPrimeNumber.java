@@ -1,6 +1,6 @@
 package medium;
 
-public class AnyPrimeNumberInRange {
+public class AnyPrimeNumber {
 
 	public static void main(String[] args) {
 
