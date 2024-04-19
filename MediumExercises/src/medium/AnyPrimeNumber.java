@@ -35,3 +35,4 @@ public class AnyPrimeNumber {
 		return false;
 	}
 }
+
