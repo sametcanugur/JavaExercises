@@ -9,6 +9,11 @@ public class ReversetheCase {
 
 	public static String caseReverser(String text) {
 
+		if (text == null) {
+
+			return "Undefined";
+		}
+
 		String[] array = text.split("");
 		String result = "";
 
